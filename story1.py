@@ -2,11 +2,10 @@ from input import *
 
 #Written by Joseph Poltack and Harrison Lord
 def story():
-    location1 = getWord("Enter a location: ")
-    temperature1 = getNumber("Enter a Number: ")
+    name1 = gitword
     
     text = ""
-    text += "
+    text += "One day two people named " + name1
     text += "
     text += " 
 
