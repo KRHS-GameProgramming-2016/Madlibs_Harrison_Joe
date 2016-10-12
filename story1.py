@@ -13,7 +13,11 @@ def story():
     text += " and " + name2
     text += " lived in a. " + building1
     text += " They were both hungry so they went out to get some " + food1
-
+    text +=
+    text +=
+    text +=
+    text +=
+    text +=
     
     
     
