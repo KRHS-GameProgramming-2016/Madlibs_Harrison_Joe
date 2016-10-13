@@ -18,8 +18,8 @@ def story():
     text += "'s car. "
     text += "They then later arived at the " + store1
     text += ". "
-    text += "
-    text += "
+    text += "They picked up some" + food1
+    text += "and some
     text += "
     text += "
     
