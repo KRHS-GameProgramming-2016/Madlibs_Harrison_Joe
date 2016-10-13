@@ -2,9 +2,9 @@ from input import *
 
 #written by Joseph Poltack
 def story():
-    day1 = getword("Enter a day of a week")
-    food1 = getword("Enter a food item")
-    shoebrand1 = getword("Enter shoe brand name")
+    day1 = getWord("Enter a day of a week")
+    food1 = getWord("Enter a food item")
+    shoebrand1 = getWord("Enter shoe brand name")
     
     text = ""
     text +="It was a" + day1
@@ -14,8 +14,11 @@ def story():
     text +="When I finished beakfast I then got drested and put on my " + shoebrand1
     text +="shoes."
     text +="After that I headed right out the door and started my car."
-    text +="
-    text +="
-    text +="
-    text +="
-    text +="
+
+
+
+
+
+
+
+    return text
