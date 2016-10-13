@@ -10,7 +10,7 @@ def story():
     text = ""
     text = "There is a person named" + name1
     text += "He is a" + word1
-    text += "he came from" + place 1
+    text += "he came from" + place1
     text += "he likes to eat" + food1
     text += "he hates" + thing1
 
