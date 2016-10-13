@@ -11,7 +11,7 @@ def story():
     text +="morning and I was hungry."
     text +="I dicited to have" + food1
     text +="for beckfast."
-    text +="When I finished beakfast I then got drested and put on my" + shoebrand1
+    text +="When I finished beakfast I then got drested and put on my " + shoebrand1
     text +="shoes."
     text +="After that I headed right out the door and started my car."
     text +="
