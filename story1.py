@@ -6,7 +6,9 @@ def story():
     name2 = getWord("Enter a name ")
     building1 = getWord("Enter a building ")
     food1 = getWord("Enter a food item ")
-    store1 = getWord("enter a store")
+    store1 = getWord("Enter a store")
+    bevrage1 = getWord("Enter a bevrage")
+    
     
     text = ""
     text += "Two people named " + name1
@@ -19,7 +21,17 @@ def story():
     text += "They then later arived at the " + store1
     text += ". "
     text += "They picked up some" + food1
-
+    text += "and some " + bevrage1
+    text += " 
+    text += "
+    text += "
+    text += "
+    text += "
+    text += "
+    text += "
     
-      
+
+
+
+
     return text
