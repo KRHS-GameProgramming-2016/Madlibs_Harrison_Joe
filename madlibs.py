@@ -31,3 +31,11 @@ def madlibs():
 
     
 madlibs()
+
+
+
+
+
+
+
+#OPEN SMARTGIT AND ACTULLY WORK PLEASE AND NOT PLAY WARLIGHT SO MUCH
