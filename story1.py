@@ -22,13 +22,6 @@ def story():
     text += ". "
     text += "They picked up some" + food1
     text += "and some " + bevrage1
-    text += " 
-    text += "
-    text += "
-    text += "
-    text += "
-    text += "
-    text += "
     
 
 

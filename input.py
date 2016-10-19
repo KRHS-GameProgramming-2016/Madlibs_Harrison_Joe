@@ -42,6 +42,17 @@ def getNumber(prompt):
                 print "Numbers only please!"
     return response
         
+def getFood(prompt):
+    goodInput = False
+    food = "asparagus, apples, avacado, alfalfa, acorn squash, almond, arugala, artichoke, applesauce, asian noodles, antelope, ahi tuna, albacore tuna, Apple juice, Avocado roll, Bruscetta, bacon, black beans, bagels, baked beans, BBQ, bison, barley, beer, bisque, bluefish, bread, broccoli, buritto, babaganoosh, Cabbage, cake, carrots, carne asada, celery, cheese, chicken, catfish, chips, chocolate, chowder, clams, coffee, cookies, corn, cupcakes, crab, curry, cereal, chimichanga"
+    while not goodInput:
+        response = raw_input(prompt)
+        goodInput = True
+        for character in response:
+            if character not in food:
+                goodInput = False
+                print "Food only please!"
+    return response
         
 
 
