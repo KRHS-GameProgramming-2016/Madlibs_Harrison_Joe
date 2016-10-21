@@ -13,8 +13,8 @@ def story():
     text += " for beckfast. "
     text += " When I finished beakfast I then got drested and put on my " + shoebrand1
     text += " shoes. "
-    text += " After that I headed right out the door and started my car. "
-
+    text += " After that I dicited to go for a walk. "
+    texe += " 
 
 
 
