@@ -7,60 +7,48 @@ def isSwear(word):
                  "bitch",
                  "blowjob",
                  "boner",
-                 "bitchy
-                 "bullshit
-                 "chink
-                 "camel toe
-                 "choad
-                 "chode
-                 "clit
-                 "cock
-                 "cum
-                 "cumguzzler
-                 "cunt
-                 "dick
-                 "dipshit
-                 "dildo
-                 "dickhead
-                 "dumbass
-                 "dumbshit
-                 "dyke
-                 "fag
-                 "faggot
-                 "fatass
-                 "fuck
-                 "fucking
-                 "fuckoff
-                 "fuckwit
-                 "gay
-                 "goddam
-                 "goddamit
-                 "handjob
-                 "hoe
-                 "hell
-                 "homo
-                 "humping
-                 "jackass
-                 "jerk off
-                 "jizz
-                 "kootch
-                 "kooch
-                 "kunt
-                 "lesbian
-                 "mothafucka
-                 "motherfucker
-                 "
-                 "
-                 "
-                 "
-                 "
-                 "
-                 
-                 
-                 
-                 
-                 
-                 
+                 "bitchy",
+                 "bullshit",
+                 "chink",
+                 "camel toe",
+                 "choad",
+                 "chode",
+                 "clit",
+                 "cock",
+                 "cum",
+                 "cumguzzler",
+                 "cunt",
+                 "dick",
+                 "dipshit",
+                 "dildo",
+                 "dickhead",
+                 "dumbass",
+                 "dumbshit",
+                 "dyke",
+                 "fag",
+                 "faggot",
+                 "fatass",
+                 "fuck",
+                 "fucking",
+                 "fuckoff",
+                 "fuckwit",
+                 "gay",
+                 "goddam",
+                 "goddamit",
+                 "handjob",
+                 "hoe"
+                 "hell"
+                 "homo"
+                 "humping"
+                 "jackass"
+                 "jerk off"
+                 "jizz"
+                 "kootch"
+                 "kooch"
+                 "kunt"
+                 "lesbian"
+                 "mothafucka"
+                 "motherfucker"
                  
     if word in swearList:
         return True
