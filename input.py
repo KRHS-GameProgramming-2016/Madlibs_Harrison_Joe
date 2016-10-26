@@ -233,7 +233,7 @@ def getFood(prompt):
         if response not in food:
             goodInput = False
             print "Food only please!"
-    return response
+    return response 
         
 
 
