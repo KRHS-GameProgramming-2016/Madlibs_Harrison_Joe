@@ -36,19 +36,19 @@ def isSwear(word):
                  "goddam",
                  "goddamit",
                  "handjob",
-                 "hoe"
-                 "hell"
-                 "homo"
-                 "humping"
-                 "jackass"
-                 "jerk off"
-                 "jizz"
-                 "kootch"
-                 "kooch"
-                 "kunt"
-                 "lesbian"
-                 "mothafucka"
-                 "motherfucker"
+                 "hoe",
+                 "hell",
+                 "homo",
+                 "humping",
+                 "jackass",
+                 "jerk off",
+                 "jizz",
+                 "kootch",
+                 "kooch",
+                 "kunt",
+                 "lesbian",
+                 "mothafucka",
+                 "motherfucker"]
                  
     if word in swearList:
         return True
@@ -191,7 +191,7 @@ def getFood(prompt):
             "jelly",
             "jam",
             "jerky",
-            "jalapeño",
+            "jalapeno",
             "kale",
             "kabobs",
             "ketchup",
