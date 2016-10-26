@@ -7,60 +7,48 @@ def isSwear(word):
                  "bitch",
                  "blowjob",
                  "boner",
-                 "bitchy
-                 "bullshit
-                 "chink
-                 "camel toe
-                 "choad
-                 "chode
-                 "clit
-                 "cock
-                 "cum
-                 "cumguzzler
-                 "cunt
-                 "dick
-                 "dipshit
-                 "dildo
-                 "dickhead
-                 "dumbass
-                 "dumbshit
-                 "dyke
-                 "fag
-                 "faggot
-                 "fatass
-                 "fuck
-                 "fucking
-                 "fuckoff
-                 "fuckwit
-                 "gay
-                 "goddam
-                 "goddamit
-                 "handjob
-                 "hoe
-                 "hell
-                 "homo
-                 "humping
-                 "jackass
-                 "jerk off
-                 "jizz
-                 "kootch
-                 "kooch
-                 "kunt
-                 "lesbian
-                 "mothafucka
-                 "motherfucker
-                 "poltak
-                 "
-                 "
-                 "
-                 "
-                 "
-                 
-                 
-                 
-                 
-                 
-                 
+                 "bitchy",
+                 "bullshit",
+                 "chink",
+                 "camel toe",
+                 "choad",
+                 "chode",
+                 "clit",
+                 "cock",
+                 "cum",
+                 "cumguzzler",
+                 "cunt",
+                 "dick",
+                 "dipshit",
+                 "dildo",
+                 "dickhead",
+                 "dumbass",
+                 "dumbshit",
+                 "dyke",
+                 "fag",
+                 "faggot",
+                 "fatass",
+                 "fuck",
+                 "fucking",
+                 "fuckoff",
+                 "fuckwit",
+                 "gay",
+                 "goddam",
+                 "goddamit",
+                 "handjob",
+                 "hoe",
+                 "hell",
+                 "homo",
+                 "humping",
+                 "jackass",
+                 "jerk off",
+                 "jizz",
+                 "kootch",
+                 "kooch",
+                 "kunt",
+                 "lesbian",
+                 "mothafucka",
+                 "motherfucker"]
                  
     if word in swearList:
         return True
@@ -203,7 +191,7 @@ def getFood(prompt):
             "jelly",
             "jam",
             "jerky",
-            "jalapeño",
+            "jalapeno",
             "kale",
             "kabobs",
             "ketchup",
@@ -215,7 +203,7 @@ def getFood(prompt):
             "linguine",
             "lasagna",
             "meatballs",
-            "moose",
+            "moose", 
             "milk",
             "milkshake",
             "noodles",
@@ -245,7 +233,7 @@ def getFood(prompt):
         if response not in food:
             goodInput = False
             print "Food only please!"
-    return response
+    return response 
         
 
 
