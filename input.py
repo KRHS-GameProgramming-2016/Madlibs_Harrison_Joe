@@ -203,7 +203,7 @@ def getFood(prompt):
             "linguine",
             "lasagna",
             "meatballs",
-            "moose",
+            "moose", 
             "milk",
             "milkshake",
             "noodles",
