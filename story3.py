@@ -14,6 +14,13 @@ def story():
     text += "he came from" + place1
     text += "he likes to eat" + food1
     text += "he hates" + thing1
+    text += "has a friend named" + name2
+    text += "
+    text +=
+    text +=
+    text +=
+    text +=
+    text +=
       
     return text
 
