@@ -16,7 +16,7 @@ def story():
     text += "he hates" + thing1
     text += "He has a friend named " + name2
     text += "and " Name1
-    text += ". 
+    text += ". "
     text += name 1 "and" Name 2 "went out to eat at 
     text +=
     text +=

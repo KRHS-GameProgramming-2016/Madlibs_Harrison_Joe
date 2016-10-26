@@ -49,7 +49,7 @@ def isSwear(word):
                  "lesbian
                  "mothafucka
                  "motherfucker
-                 "
+                 "poltak
                  "
                  "
                  "
