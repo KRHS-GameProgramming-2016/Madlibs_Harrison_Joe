@@ -17,8 +17,6 @@ def story():
     text += ". It was dark and spooky outside. Their was nobody around besides me and the cool air, or so I thought. Next thing I know their was a" + person_or_thing1
     text += " chaceing me. So I started running. This" + person_or_thing1
     text += " just keped on folowing me wheir ever I went. I finaly ran out of breath and I confrounted it face to face, but i coundn't see it's face. It was being coverd up by " + something_you_can_wear1
-    text += "
-
 
 
 
