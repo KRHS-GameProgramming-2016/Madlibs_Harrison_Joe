@@ -8,6 +8,8 @@ def story():
     place1 = getWord("enter a place")
     name1 = getWord("enter a food")
     thing1 = getWord("enter a thing")
+    name2 = getWord("enter a name")
+    name3 = getWord("enter a name")
     text = ""
     text += "There is a person named" + name1
     text += "He is a" + word1
