@@ -15,12 +15,10 @@ def story():
     text += "he likes to eat" + food1
     text += "he hates" + thing1
     text += "He has a friend named " + name2
-    text += "and " Name1
+    text += "and " + Name3
     text += ". "
-    text += name 1 "and" Name 2 "went out to eat at 
-    text +=
-    text +=
-    text +=
+    text += ". " + name1 + "and" + name2 + "went out to eat at " + place1
+    text += "the sat down then they died."
       
     return text
 
