@@ -17,7 +17,7 @@ def story():
     text += " for beckfast. When I finished beakfast I then got drested and put on my " + shoebrand1
     text += " shoes. After that I dicited to go for a walk to a " + place1
     text += ". It was dark and spooky outside. Their was nobody around besides me and the cool air, or so I thought. Next thing I know their was a" + noun1
-    text += " chaceing me. So I started running. This " + person_or_thing1
+    text += " chaceing me. So I started running. This " + noun1
     text += " just keped on folowing me wheir ever I went. I finaly ran out of breath and I confrounted him face to face, but i coundn't see it's face. It was being coverd up by " + something_you_can_wear1
     text += " . So I just asked why he was fallowing me. Right after I finished that sentance he pulled out a " + weapon1
     text += " . Unlucky for him I also brought my " + weapon2
